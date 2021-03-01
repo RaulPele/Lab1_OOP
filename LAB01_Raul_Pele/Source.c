@@ -9,7 +9,7 @@ numarul cifrelor 0 in care se termina numarul produs al numerelor citite.
 int factorK(int x, int k) {
 	/*Returneaza de cate ori apare factorul k in descompunerea in factori a numarului x
 	
-	preconditii: x, k - tip int
+	preconditii: x, k - tip int; x numarul in care se cauta factorul k
 	postconditii: functia returneaza un numar intreg reprezentand numarul de aparitii a factorului k in 
 		descompunerea in factori
 	*/
